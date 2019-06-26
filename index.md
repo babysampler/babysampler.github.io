@@ -1,10 +1,8 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
   </head>
-  <body>
-
-<link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
 
 <style>
  body {
@@ -97,6 +95,7 @@ text {
 
 </style>
 
+<body>
 <center><img src="logo.png" alt="Logo" /></center>
 
 <center><button class="join" onclick="window.location.href='http://bit.ly/babysamp'"> Join </button>
