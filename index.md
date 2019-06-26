@@ -1,37 +1,157 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/babysampler/babysampler.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Would you like to join us?</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Would you like to join us?" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://everydaymomclub.github.io/" />
+<meta property="og:url" content="https://everydaymomclub.github.io/" />
+<meta property="og:site_name" content="Would you like to join us?" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Would you like to join us?","url":"https://everydaymomclub.github.io/","name":"Would you like to join us?","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-### Markdown
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=72e4c77364cbcc18ee415cf213d6a9fd0fd29f14">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Would you like to join us?</h1>
+      <h2 class="project-tagline"></h2>
+      
+      
+    </section>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <section class="main-content">
+      <head>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-141839667-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-```markdown
-Syntax highlighted code block
+  gtag('config', 'UA-141839667-1');
+</script>
+</head>
 
-# Header 1
-## Header 2
-### Header 3
+<link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
 
-- Bulleted
-- List
+<style>
+ body {
+  background-image: url("baby.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  }
+  
+ html {
+  font-family: 'Poppins', sans-serif;
+  background-image: linear-gradient(120deg, #9457e0, #f44bca);
+  }
+ 
+.site-footer {
+   visibility: hidden;
+   max-height: 0px;
+ }
 
-1. Numbered
-2. List
+.page-header {
+    color: #fffff;
+    text-align: center;
+    background-color: #7f797d;
+    background-image: linear-gradient(120deg, #9457e0, #f44bca);
+}
 
-**Bold** and _Italic_ and `Code` text
+@media screen and (min-width: 64em) {
+    .page-header {
+        padding: 2rem 6rem
+    }
+}
 
-[Link](url) and ![Image](src)
-```
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .page-header {
+        padding: 1rem 4rem
+    }
+}
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+@media screen and (max-width: 42em) {
+    .page-header {
+        padding: 0.01rem 1rem
+    }
+}
 
-### Jekyll Themes
+.project-name {
+    margin-top: 1rem;
+    margin-bottom: 0.1rem
+}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/babysampler/babysampler.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+@media screen and (min-width: 64em) {
+    .project-name {
+        font-size: 2.8rem
+    }
+}
 
-### Support or Contact
+@media screen and (min-width: 42em) and (max-width: 64em) {
+    .project-name {
+        font-size: 2.5rem
+    }
+}
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+@media screen and (max-width: 42em) {
+    .project-name {
+        font-size: 2rem
+    }
+}
+
+text {
+  color: white;
+  font-size: 18px;
+  }
+  
+.join {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #31ed70;
+  border: none;
+  color: white;
+  border-radius: 15px;
+  padding: 20px 40px;
+  text-align: center;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.join:hover {
+  background-color: #28cc5f;
+}
+
+</style>
+
+<center><img src="logo.png" alt="Logo" /></center>
+
+<center><button class="join" onclick="window.location.href='https://www.mb102.com/lnk.asp?o=12088&amp;c=918277&amp;a=377858&amp;k=791E65D0D0DC26543A895BB2781F8F00&amp;l=12366'"> Join </button>
+
+<br />
+
+<text>Everyday Mom Club offers monthly samples from large companies, who giveaway products as advertisements. All you have to do is sign up and wait for your samples to arrive. Offer is valid in continental United States might expire once limits are reached.</text>
+
+<br />
+
+</center>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
