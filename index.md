@@ -82,10 +82,10 @@ text {
   background-color: #31ed70;
   border: none;
   color: white;
-  border-radius: 15px;
+  border-radius: 17px;
   padding: 20px 40px;
   text-align: center;
-  font-size: 22px;
+  font-size: 23px;
   cursor: pointer;
 }
 
