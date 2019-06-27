@@ -98,7 +98,7 @@ text {
 <body>
 <center><img src="logo.png" alt="Logo" /></center>
 
-<center><button class="join" onclick="window.location.href='https://www.mb102.com/lnk.asp?o=12231&c=918277&a=377858&k=20CC094AC4D36F2740D67859CB2C3232&l=12510'"> Join </button>
+<center><button class="join" onclick="window.location.href='https://www.mb104.com/lnk.asp?o=15415&c=918277&a=377858&k=EA900BBC35FD91F38887E9C18B91D5C9&l=16290'"> Join </button>
 
 <br/>
 
