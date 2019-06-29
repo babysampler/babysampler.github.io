@@ -11,7 +11,7 @@
 
   gtag('config', 'UA-141839667-4');
 </script>
-<script type="text/javascript" src="https://www.trustactivity.com/cdn/truster.js?acc=$2y$10$Igln8aBg/fb8gFzX2J/Bl.9KSIArX8SlrBvxBIOjq7exxNaAi55ji"></script>
+<script type="text/javascript" src="https://www.trustactivity.com/cdn/truster.js?acc=$2y$10$zJoQaadVIlVC0HCWQnLFFuEqdvTFerWYVtVPeQKYGxF1erWcVv8/i"></script>
   </head>
 
 <style>
