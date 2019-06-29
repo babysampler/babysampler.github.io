@@ -2,6 +2,16 @@
   <head>
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
+<script type="text/javascript" src="https://www.trustactivity.com/cdn/truster.js?acc=$2y$10$zJoQaadVIlVC0HCWQnLFFuEqdvTFerWYVtVPeQKYGxF1erWcVv8/i"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141839667-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141839667-4');
+</script>
   </head>
 
 <style>
