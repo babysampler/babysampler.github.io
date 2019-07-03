@@ -10,8 +10,6 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-141839667-4');
-</script>
-<script type="text/javascript" src="https://www.trustactivity.com/cdn/truster.js?acc=$2y$10$zJoQaadVIlVC0HCWQnLFFuEqdvTFerWYVtVPeQKYGxF1erWcVv8/i"></script>
   </head>
 
 <style>
@@ -108,7 +106,7 @@ text {
 <body>
 <center><img src="logo.png" alt="Logo" /></center>
 
-<center><button class="join" onclick="window.location.href='https://www.mb102.com/lnk.asp?o=8288&c=918277&a=377858&k=4990979B8A28EB15D7AFD2B9C99636E4&l=7000'"> Join </button>
+<center><button class="join" onclick="window.location.href='https://reg.everydayfamily.com/lp/ef585'"> Join </button>
 
 <br/>
 
