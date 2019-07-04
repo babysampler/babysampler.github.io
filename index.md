@@ -1,5 +1,20 @@
 <html lang="en-US">
   <head>
+    
+    
+    <!-- TRACKING STUFF FOR BABYSAMPLER.GITHUB.IO -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141839667-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141839667-6');
+</script>
+    <!-- TRACKING STUFF FOR BABYSAMPLER.GITHUB.IO -->
+
+    
     <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet" />
   </head>
