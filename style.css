@@ -1,11 +1,9 @@
-@font-face {
-  font-family: SF-Pro-Text-Heavy;
-  src: url(Fonts/h1.otf);
+html {
+  font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-  letter-spacing: -0.05em;
-  font-family: SF-Pro-Text-Heavy;
+  font-weight: 900;
   padding-left: 2rem;
   font-size: 3.5rem;
   padding-top: 1rem;
@@ -21,14 +19,8 @@ h1 {
   }
 }
 
-@font-face {
-  font-family: SF-Pro-Text-Semibold;
-  src: url(Fonts/h2.otf);
-}
-
 a {
-  letter-spacing: -0.05em;
-  font-family: SF-Pro-Text-Semibold;
+  font-weight: 500;
   font-size: 1rem;
 }
 
@@ -38,15 +30,9 @@ a {
   }
 }
 
-@font-face {
-  font-family: SF-Pro-Text-Light;
-  src: url(Fonts/h3.otf);
-}
-
 b {
   word-wrap: break-word;
-  letter-spacing: -0.05em;
-  font-family: SF-Pro-Text-Light;
+  font-weight: 300;
   font-size: 1rem;
 }
 
@@ -82,7 +68,7 @@ span {
 }
 
 .button {
-  font-family: SF-Pro-Text-Light;
+  font-weight: 300;
   background-color: #157efb;
   border-radius: 10px;
   color: white;
